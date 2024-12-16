@@ -11,6 +11,10 @@ public class Simulation {
         Kitty persianCat = new PersianCat();
         System.out.println(persianCat);
 
-        // then mimi-mimitos cat
+        // then add european cat
+
+        // then add mimi-mimitos cat
+
+        // then change de jump behaviour of the mimi-mimitos cat
     }
 }

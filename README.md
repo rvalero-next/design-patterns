@@ -13,6 +13,6 @@ The only that we need to do complete the simulation (Simulation class) following
 
 ## Kata 2: Cat API & Cat Kpis
 
-It is a simple application to train the use of the DoubleTest Pattern and the Dessing patterns in general.
+It is a simple application to train the use of the DoubleTest Pattern and the design patterns in general.
 
 For this Kata run mvn install (./mvnw install or mvn install) of both projects and go to the CatKpis README.md to see the TODO list.

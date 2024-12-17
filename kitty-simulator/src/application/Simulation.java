@@ -1,4 +1,4 @@
-package domain.behaviours;
+package application;
 
 import domain.Kitty;
 import domain.cats.PersianCat;
@@ -13,6 +13,6 @@ public class Simulation {
 
         // then add european cat
 
-        // then create a new behaviour for meow with swear word
+        // then create a new behaviour for french meow and change the behaviour of the european cat
     }
 }

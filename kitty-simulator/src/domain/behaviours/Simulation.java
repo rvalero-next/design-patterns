@@ -13,8 +13,6 @@ public class Simulation {
 
         // then add european cat
 
-        // then add mimi-mimitos cat
-
-        // then change de jump behaviour of the mimi-mimitos cat
+        // then create a new behaviour for meow with swear word
     }
 }

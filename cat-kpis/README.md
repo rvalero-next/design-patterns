@@ -18,6 +18,6 @@ The TODO LIST of this Kata is:
 ## Hints
 
 - First, try to run the spring boot application and go to localhost:8080 to see the KPIs
-- To run this application you can use the command `mvn spring-boot:run` but is better to run the CatKpisApplication.java file with your favorite IDE (IntellijIDEa, visualcode, etc).
+- To run this application you can use the command `./mvnw spring-boot:run` but is better to run the CatKpisApplication.java file with your favorite IDE (IntellijIDEa, visualcode, etc).
 - Then, try to fix the KPIs in the KpiService.java file.
 - After that, try to do the refactor of the KpiService.java and the implementation of the CatKpiTest.java at the same time.
